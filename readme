@@ -1,0 +1,7 @@
+- Spring AOP est un module du framework Spring
+- Spring AOP => assurer la mise en oeuvre de certaines fonctionnalités transverses. ex : transactions, sécurité, logging
+- Spring AOP repose sur des proxys pour le tissage des aspects
+- Mise en oeuvre de Spring AOP avec les annotations d'AspectJ
+- Bien que ce soit les annotations d'AspectJ qui sont utilisées, le tissage sera assuré par Spring AOP
+- Il existe 5 types d'advices : Before, After, around, after returning, after throwing
+- Mots clés : Aspect, Advice, JoinPoint, PointCut
